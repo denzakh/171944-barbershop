@@ -1,6 +1,7 @@
 # Учебный проект «Барбершоп»
 
 * Студент: [Денис Захарченко](https://up.htmlacademy.ru/htmlcss/13/user/171944).
+* Наставник: [Женя Михайлова](https://htmlacademy.ru/profile/id56156)
 
 ---
 
